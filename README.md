@@ -11,8 +11,8 @@ Fluente em **Português** | **Inglês** | **Espanhol**, possuo conhecimento em R
 ### 🤖 Linguagens e Tecnologias
 
   <img src="https://skillicons.dev/icons?i=html" align="left" style="padding-right: 1px;" width="30px" alt="html logo" />
-  <img src="https://skillicons.dev/icons?i=css" align="left" style="padding-right: 5px;" width="30px" alt="css logo"  />
-  <img src="https://skillicons.dev/icons?i=react" align="left" style="padding-right: 5px;" width="30px" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=css" align="left" style="padding-right: 1px;" width="30px" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=react" align="left" width="30px" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" align="left" style="padding-right: 5px;" width="30px" alt="tailwindcss logo"  />
   <img src="https://skillicons.dev/icons?i=js" align="left" style="padding-right: 5px;" width="30px" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" align="left" style="padding-right: 5px;" width="30px" alt="typescript logo"  />
