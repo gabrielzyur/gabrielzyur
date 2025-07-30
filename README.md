@@ -37,7 +37,7 @@ Fluente em **Português** | **Inglês** | **Espanhol**, possuo conhecimento em R
   <img 
     align="left" 
     alt="AnimatedGif" 
-    height="300" 
+    height="500" 
     style="padding-right: 10px;" 
     src="https://wallpaperaccess.com/full/8351321.gif" 
   />
