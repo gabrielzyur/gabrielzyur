@@ -10,22 +10,22 @@ Fluente em **Português** | **Inglês** | **Espanhol**, possuo conhecimento em R
 
 ### 🤖 Linguagens e Tecnologias
 
-  <img src="https://skillicons.dev/icons?i=html" align="left" style="padding-right: 5px;" width="30px" alt="html5 logo" />
-  <img src="https://skillicons.dev/icons?i=css"5 width="30px" alt="css logo"  />
-  <img src="https://skillicons.dev/icons?i=react"5 width="30px" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind"5 width="30px" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=js"5 width="30px" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts"5 width="30px" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs"5 width="30px" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=threejs"5 width="30px" alt="threejs logo"  />
-  <img src="https://skillicons.dev/icons?i=py"5 width="30px" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql"5 width="30px" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb"5 width="30px" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=git"5 width="30px" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=ps"5 width="30px" alt="adobephotoshop logo"  />
-  <img src="https://skillicons.dev/icons?i=ai"5 width="30px" alt="adobeillustrator logo"  />
-  <img src="https://skillicons.dev/icons?i=blender"5 width="30px" alt="blender logo"  />
-  <img src="https://skillicons.dev/icons?i=discord"5 width="30px" alt="discord logo"  />
+  <img src="https://skillicons.dev/icons?i=html" align="left" style="padding-right: 5px;" width="30px" alt="html logo" />
+  <img src="https://skillicons.dev/icons?i=css" align="left" style="padding-right: 5px;" width="30px" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=react" align="left" style="padding-right: 5px;" width="30px" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" align="left" style="padding-right: 5px;" width="30px" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=js" align="left" style="padding-right: 5px;" width="30px" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" align="left" style="padding-right: 5px;" width="30px" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" align="left" style="padding-right: 5px;" width="30px" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=threejs" align="left" style="padding-right: 5px;" width="30px" alt="threejs logo"  />
+  <img src="https://skillicons.dev/icons?i=py" align="left" style="padding-right: 5px;" width="30px" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" align="left" style="padding-right: 5px;" width="30px" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" align="left" style="padding-right: 5px;" width="30px" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=git" align="left" style="padding-right: 5px;" width="30px" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" align="left" style="padding-right: 5px;" width="30px" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" align="left" style="padding-right: 5px;" width="30px" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=blender" align="left" style="padding-right: 5px;" width="30px" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=discord" align="left" style="padding-right: 5px;" width="30px" alt="discord logo"  />
 </div>
 
 <br/>
@@ -37,7 +37,7 @@ Fluente em **Português** | **Inglês** | **Espanhol**, possuo conhecimento em R
   <img 
     align="left" 
     alt="Animated Gif" 
-    height="350" 
+    height="30" 
     style="padding-right: 10px;" 
-    src="https://wallpaperaccess.com/full/8351321.gif" 
+    src="https://wallpaperaccess.com/full/831321.gif" 
   />
