@@ -10,39 +10,34 @@ Fluente em **Português** | **Inglês** | **Espanhol**, possuo conhecimento em R
 
 ### 🤖 Linguagens e Tecnologias
 
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img src="https://skillicons.dev/icons?i=html" align="left" style="padding-right: 10px;" align="left" style="padding-right: 10px;" width="30px" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" align="left" style="padding-right: 10px;" width="30px" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=react" align="left" style="padding-right: 10px;" width="30px" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" align="left" style="padding-right: 10px;" width="30px" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=js" align="left" style="padding-right: 10px;" width="30px" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" align="left" style="padding-right: 10px;" width="30px" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" align="left" style="padding-right: 10px;" width="30px" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=threejs" align="left" style="padding-right: 10px;" width="30px" alt="threejs logo"  />
+  <img src="https://skillicons.dev/icons?i=py" align="left" style="padding-right: 10px;" width="30px" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" align="left" style="padding-right: 10px;" width="30px" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" align="left" style="padding-right: 10px;" width="30px" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=git" align="left" style="padding-right: 10px;" width="30px" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" align="left" style="padding-right: 10px;" width="30px" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" align="left" style="padding-right: 10px;" width="30px" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=blender" align="left" style="padding-right: 10px;" width="30px" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=discord" align="left" style="padding-right: 10px;" width="30px" alt="discord logo"  />
+</div>
 
 <br/>
+<br/>
+
+###  
 
 <p>
-<img height="320" src="https://wallpaperaccess.com/full/8351321.gif"  />
+  <img 
+    align="left" 
+    alt="Animated Gif" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://wallpaperaccess.com/full/8351321.gif" 
+  />
